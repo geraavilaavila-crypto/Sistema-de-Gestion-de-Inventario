@@ -1,6 +1,3 @@
-# Sistema-de-Gestion-de-Inventario
-Actividad 4 POO - Proyecto final en linea
-
 📦 SISTEMA DE GESTIÓN DE INVENTARIOS
 Con Polimorfismo, Clases Abstractas e Interfaces
 📋 DESCRIPCIÓN GENERAL
