@@ -363,8 +363,4 @@ Commit y push a GitHub	10%	✅
 📞 CONTACTO Y SOPORTE
 Para preguntas o soporte:
 
-Crear un issue en GitHub
 
-Contactar al autor por email
-
-¡Gracias por revisar este proyecto! 🚀
